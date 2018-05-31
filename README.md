@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Bienvenido a mi proyecto sobre Cloud Computing
 
-You can use the [editor on GitHub](https://github.com/hidi92/proyecto-cloud/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## ¿QUÉ ES EL CLOUD COMPUTING? 
+Cloud Computing, más conocido coloquialmente como “la Nube”, una palabra que ahora mismo casi todo el mundo conoce desde hace algunos años pero que no significa lo que la mayoría cree. Según la mayoría de la gente, “la Nube” es un sitio donde puedes almacenar información, fotos, videos, música y documentos, cuando en realidad, eso es solo un servicio de los muchos que puede ofrecer el Cloud Computing. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## TIPOS DE CLOUD
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Modelos según tipo de servicio ofrecido:
+IaaS
+Paas
+SaaS
+### Modelos según el tipo acceso externo:
+Privada
+Pública
+Híbrida
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## VIDEOS PRACTICOS SOBRE CLOUD COMPUTING
+### Puedes encontrar videos hechos por mi acerca de como se utilizan algunos servicios de los que nos ofrece Cloud Computing en el siguiente LInk.
+https://www.youtube.com/channel/UCODWFaV04BK032IlqgdPBmg?view_as=subscriber
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hidi92/proyecto-cloud/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## DOCUMENTACIÓN OFICIAL DE MI PROYECTO.  
+https://github.com/hidi92/proyecto-cloud/blob/master/Proyecto%20Cloud%20Computing%20David%20Hidalgo.pdf
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
